@@ -1,0 +1,14 @@
+Introduction to Data Science
+
+Data can be:
+Qualitative -  Descriptive - non-numerical data such as reviews
+
+Quantitative - Numerical - can be:
+
+1. Discreet - represented in whole numbers- includes counts of things such:
+- number of people
+- number of transactions
+
+2. Continuous data - represented in many ways, not necessarily whole numbers
+It includes:
+- Average distance travelled by a certain car in a certain period of time
